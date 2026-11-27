@@ -1,1 +1,1 @@
-# unistroke_recognition_inference
+# Unistroke Recognition Inference
